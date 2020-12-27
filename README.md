@@ -9,11 +9,11 @@ Objective :
        • Increase enrolment of students
        • Improve retention, progression and graduation rates
        • Recruit better academically qualified undergraduate and graduate students
-       • Increase external funding and recognition
+       • Increase external funding and recognition.
          
         
 Submission:
        - Used Python to identify key drivers of early student attrition in university
        - Built a predictive model (Gradient Boosting Classifier) to identify students with higher early attrition risk
-       - Recommended appropriate interventions based on the analysis in a power point presentation
+       - Recommended appropriate interventions based on the analysis in a power point presentation.
  
